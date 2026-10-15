@@ -28,7 +28,7 @@ Architecture: $ARCH
 Installed-Size: $SIZE
 Maintainer: Andrej Ristic <andrej.s.ristic@gmail.com>
 Depends: libc6 (>= 2.34)
-Homepage: https://github.com/andrejristic/pse-r
+Homepage: https://github.com/zeravatechnologies/andrej-pse-r
 Description: PSE R-STDP - reward-modulated STDP on a small spiking network
  A command-line research tool for reward-modulated spike-timing-dependent
  plasticity experiments on a small spiking neural network. Run phases, seeds
